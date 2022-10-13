@@ -1,0 +1,16 @@
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.csproj.AssemblyReference.cache
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.csproj.SuggestedBindingRedirects.cache
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.Form1.resources
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.Info.resources
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.Properties.Resources.resources
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.csproj.GenerateResource.cache
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.csproj.CoreCompileInputs.cache
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\bin\Debug\GetAPIdemo.exe.config
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\bin\Debug\GetAPIdemo.exe
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\bin\Debug\GetAPIdemo.pdb
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.exe
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.pdb
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\bin\Debug\Newtonsoft.Json.dll
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\bin\Debug\Newtonsoft.Json.xml
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.csproj.CopyComplete
+E:\Biblioteca\Escritorio\Lab 2\GetAPIdemo\GetAPIdemo\obj\Debug\GetAPIdemo.About.resources
